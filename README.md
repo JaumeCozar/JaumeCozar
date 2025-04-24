@@ -20,3 +20,7 @@ DESIGN:![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8
 <br>
 
 CI/CD VCS:![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+<br>
+
+
+IDEs: [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) 
