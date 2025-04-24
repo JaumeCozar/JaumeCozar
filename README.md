@@ -3,7 +3,7 @@ Soy un desarrollador Full Stack en formación,<br>inicié mi camino en el mundo 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jaume Cozar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cozar.rins.jaume@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaume-cozar-a64aa728b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cozar.rins.jaume@gmail.com) 
 
 # 💻 Tech Stack:
 
