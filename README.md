@@ -20,7 +20,3 @@ DESIGN:![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8
 <br>
 
 CI/CD VCS:![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaume cozar&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jaume cozar&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaume cozar&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
